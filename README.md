@@ -1,5 +1,5 @@
 
-# desafio-amigo-secreto
+# challenge-amigo-secreto
 
 ¡Bienvenido a desafio-amigo-secreto! Este proyecto es una aplicación web interactiva que facilita el sorteo de amigos para juegos de "Amigo Secreto".
 Puedes agregar nombres, realizar el sorteo, y ver el resultado de manera fácil y rápida.
