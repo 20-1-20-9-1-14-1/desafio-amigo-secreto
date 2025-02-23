@@ -1,7 +1,7 @@
 
 # Amigo Secreto
 
-¡Bienvenido a Amigo Secreto! Este proyecto es una aplicación web interactiva que facilita el sorteo de amigos para juegos de "Amigo Secreto".
+¡Bienvenido a desafio-amigo-secreto! Este proyecto es una aplicación web interactiva que facilita el sorteo de amigos para juegos de "Amigo Secreto".
 Puedes agregar nombres, realizar el sorteo, y ver el resultado de manera fácil y rápida.
 
 ## Características
@@ -71,6 +71,9 @@ Puedes agregar nombres, realizar el sorteo, y ver el resultado de manera fácil 
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
 
+## Agradecimientos
+
+Un agradecimiento especial a [Alura LATAM](https://www.aluralatam.com) por proporcionar el código CSS y HTML utilizado en este proyecto.
 
 ¡Gracias por usar desafio-amigo-secreto! ¡Diviértete sorteando!
 
